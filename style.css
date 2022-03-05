@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    background: linear-gradient(to right,red, yellow);
+}
+
+h1 {
+    font: 40px fantasy;
+}
+
+h2 {
+    font: 20px fantasy;
+}
+
+h3 {
+    font: 20px fantasy;
+}
